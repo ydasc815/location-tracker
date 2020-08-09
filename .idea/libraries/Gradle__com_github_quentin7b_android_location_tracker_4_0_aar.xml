@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.quentin7b:android-location-tracker:4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/003bed19ffa8aeb9c7bbb7c55a5cb3a1/jetified-android-location-tracker-4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/003bed19ffa8aeb9c7bbb7c55a5cb3a1/jetified-android-location-tracker-4.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.quentin7b/android-location-tracker/4.0/e460e94bb2cff690f47cf8266c38ab384947c169/android-location-tracker-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
